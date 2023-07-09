@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/github.io/static/css/main.2c654158.css",
+    "main.js": "/github.io/static/js/main.06709c3c.js",
+    "static/js/787.d9312eb8.chunk.js": "/github.io/static/js/787.d9312eb8.chunk.js",
+    "static/media/daniil-silantev-dzBo4NIQdIw-unsplash.jpg": "/github.io/static/media/daniil-silantev-dzBo4NIQdIw-unsplash.f060d207480e00c43f4a.jpg",
+    "static/media/cloudy-day-2699546.png": "/github.io/static/media/cloudy-day-2699546.66f58c18a9b33ae417c7.png",
+    "static/media/thunderstorm-2699552.png": "/github.io/static/media/thunderstorm-2699552.740224103193d0439592.png",
+    "static/media/cloud-rain-2699551.png": "/github.io/static/media/cloud-rain-2699551.973e0c7d9bb58734902e.png",
+    "static/media/snow-fall-2699543.png": "/github.io/static/media/snow-fall-2699543.5b2a155200bf551bb1bf.png",
+    "static/media/cloud-2699550.png": "/github.io/static/media/cloud-2699550.f1ef1ab5711ad0c171fd.png",
+    "index.html": "/github.io/index.html",
+    "main.2c654158.css.map": "/github.io/static/css/main.2c654158.css.map",
+    "main.06709c3c.js.map": "/github.io/static/js/main.06709c3c.js.map",
+    "787.d9312eb8.chunk.js.map": "/github.io/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c654158.css",
+    "static/js/main.06709c3c.js"
+  ]
+}
